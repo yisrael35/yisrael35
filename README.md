@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yisrael Bar
 - 👀 I’m a software engineer ...
-- 🌱 I have learned: C,C++,Java, Python, JavaScript(JQuery, Ajax, Node), MongoDB, SQL and many more.
+- 🌱 I have learned: C,C++,Java, Python, JavaScript(JQuery, Ajax, Node, Express, WS, REST-API, FIX, React, Redux), MongoDB, SQL and many more.
 - 📫 How to reach me yisrael35@gmail.com
 
 <!---
